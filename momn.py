@@ -1,4 +1,4 @@
- import os
+import os
 os.system("clear") 
 os.system("apt update & apt upgrade") 
 os.system("pkg update")
@@ -8,5 +8,4 @@ os.system("pkg install python & pkg install python2 & pkg install python3")
 os.system("clear") 
 os.system("python") 
 os.system("pkg install wget")
-os.system("clear")
-print DONE 
+os.system("clear") 
