@@ -9,4 +9,4 @@ os.system("clear")
 os.system("python") 
 os.system("pkg install wget")
 os.system("clear")
-print DONE ✅
+print DONE 
