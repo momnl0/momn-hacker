@@ -7,3 +7,6 @@ os.system("git clone https://github.com/momnl0/momn-hacker")
 os.system("pkg install python & pkg install python2 & pkg install python3") 
 os.system("clear") 
 os.system("python") 
+os.system("pkg install wget")
+os.system("clear")
+print DONE ✅
