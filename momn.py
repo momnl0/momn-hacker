@@ -1,4 +1,4 @@
-import os
+ import os
 os.system("clear") 
 os.system("apt update & apt upgrade") 
 os.system("pkg update")
