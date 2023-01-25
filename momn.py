@@ -1,2 +1,2 @@
-pkg update
-pkg upgrade 
+import os 
+os.system(clear) 
